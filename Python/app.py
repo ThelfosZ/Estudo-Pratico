@@ -1,0 +1,2 @@
+nome = Jonathan
+print(idade)    
